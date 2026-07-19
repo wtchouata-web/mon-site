@@ -1,0 +1,6 @@
+{
+  "name": "Rose Amour Cameroun",
+  "description": "Catalogue privé des hôtesses et accompagnatrices indépendantes au Cameroun avec gestion autonome des profils, boosts premium VIP (frais d'enregistrement et de visibilité) et contacts directs par WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
